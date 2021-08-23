@@ -1,2 +1,2 @@
 # dz-charts
-基于echarts5的图表组件库
+一个基于echarts5的按需加载图表组件库
