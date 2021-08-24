@@ -7,6 +7,9 @@ export { default as Funnel } from './Funnel';
 export { default as Gauge } from './Gauge';
 export { default as WordCloud } from './WordCloud';
 export { default as LiquidFill } from './LiquidFill';
+export { default as Tmap } from './Tmap';
+
+
 
 
 
